@@ -1,0 +1,16 @@
+{
+  "fcfs": {
+    "short_wait_seconds": [
+      7.591,
+      9.714
+    ],
+    "training_elapsed_seconds": 5.172
+  },
+  "checkpoint": {
+    "short_wait_seconds": [
+      3.057,
+      5.252
+    ],
+    "training_elapsed_seconds": 14.194
+  }
+}

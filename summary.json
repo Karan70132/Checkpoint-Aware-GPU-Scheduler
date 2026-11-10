@@ -1,0 +1,10 @@
+{
+  "run_count": 5,
+  "short_jobs_per_run": 2,
+  "median_fcfs_average_wait_seconds": 8.8235,
+  "median_checkpoint_average_wait_seconds": 4.1114999999999995,
+  "median_wait_reduction_percent": 52.20297605208092,
+  "median_fcfs_training_seconds": 5.161,
+  "median_checkpoint_training_seconds": 14.271,
+  "median_extra_training_seconds": 9.096
+}
